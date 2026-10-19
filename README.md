@@ -7,7 +7,7 @@
 USER: xD0ri4nx // DORIAN RUIENEANU
 SYSTEM: GNU/Linux // NixOS x86_64 // Kernel: Custom
 PROFILE: Systems & DevOps Engineer // Machine Learning Pipelines
-STATUS: Master of Science in Computer Engineering @ University of Craiova
+STATUS: Master of Science in Computer Science @ University of Craiova
 THEME: Phosphor Magenta // Neon CRT Violet
 ================================================================================
 ```
