@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:003366,50:0f172a,100:1e293b&height=200&section=header&text=Dorian%20Ruieneanu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20Linux,%20Nix,%20Cloud%20and%20DevOps&descSize=18&descAlignY=68" width="100%" alt="Header Banner" />
-
-  <p align="center">
-    <a href="https://linkedin.com/in/dorian-ruieneanu-0b18a1345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ruieneanu.dorian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/xD0ri4nx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
+<p align="center">
+  <img src="terminator-banner.svg" alt="Terminator Banner" width="100%">
+</p>
 
 ---
 
