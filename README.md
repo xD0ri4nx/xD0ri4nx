@@ -152,8 +152,6 @@ PROJECT INDEX // PRODUCTION & RESEARCH BUILDS
 
 ### [0x04] TELEMETRY & CONTRIBUTION ACTIVITY
 
-### [0x04] TELEMETRY & CONTRIBUTION ACTIVITY
-
 <p align="center">
   <a href="https://github.com/xD0ri4nx">
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=xD0ri4nx&show_icons=true&title_color=ff007f&text_color=ffffff&icon_color=bc13fe&bg_color=1a0026&border_color=ff007f&hide_border=false" alt="GitHub Stats" />
