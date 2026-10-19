@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminator-banner.gif" alt="Terminator Neon Banner" width="100%">
+  <img src="terminator-banner.svg" alt="Terminator Neon Banner" width="100%">
 </p>
 
 ```text
