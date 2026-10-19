@@ -19,9 +19,6 @@ THEME: Phosphor Magenta // Neon CRT Violet
   <a href="https://www.linkedin.com/in/dorian-ruieneanu-0b18a1345">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0026&color=ff007f" alt="LinkedIn">
   </a>
-  <a href="mailto:ruieneanu.dorian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ruieneanu.dorian%40gmail.com-bc13fe?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0026" alt="Email">
-  </a>
 </p>
 
 ---
